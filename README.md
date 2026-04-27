@@ -57,6 +57,7 @@ Animations are imported and combined in Blender and then dynamically triggered i
 
 ### 🏋️ Exercises Page (UI)
 ![Exercises UI](./screenshots/picture%204.png)
+![Exercises UI 2](./screenshots/picture%205.png)
 
 ---
 
