@@ -1,4 +1,4 @@
-# 🏋️ FormLab
+# FormLab
 
 FormLab is a full-stack web application for learning proper exercise form through interactive 3D animations.
 
@@ -6,7 +6,7 @@ The application combines a Spring Boot backend with a React frontend and real-ti
 
 ---
 
-## 🚀 Features
+## Features
 
 - Browse exercises by body part  
 - View exercise descriptions and difficulty levels  
@@ -15,7 +15,7 @@ The application combines a Spring Boot backend with a React frontend and real-ti
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Backend**
 - Spring Boot
@@ -32,7 +32,7 @@ The application combines a Spring Boot backend with a React frontend and real-ti
 
 **3D**
 - Blender (model preparation and animation setup)
-- Mixamo / DeepMotion (animation sources)
+- Mixamo (animation sources)
 
 ---
 
@@ -49,3 +49,9 @@ Animations are imported and combined in Blender and then dynamically triggered i
 ```bash
 cd backend
 ./mvnw spring-boot:run
+
+### Frontend
+```bash
+cd frontend
+npm install
+npm run dev
