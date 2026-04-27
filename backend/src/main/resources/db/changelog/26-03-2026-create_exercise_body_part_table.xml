@@ -1,0 +1,49 @@
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="
+            http://www.liquibase.org/xml/ns/dbchangelog
+            http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.1.xsd">
+
+    <changeSet id="26-03-2026-create_exercise_body_part_table" author="Sofija Simonova">
+        <createTable tableName="exercise_body_part">
+            <column name="exercise_id" type="BIGINT">
+                <constraints nullable="false"/>
+            </column>
+            <column name="body_part_id" type="BIGINT">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+
+        <addPrimaryKey
+                tableName="exercise_body_part"
+                columnNames="exercise_id, body_part_id"
+                constraintName="pk_exercise_body_part"/>
+    </changeSet>
+
+    <changeSet id="26-03-2026-create_exercise_body_part_table_foreign_keys" author="Sofija Simonova">
+
+        <addForeignKeyConstraint
+                baseTableName="exercise_body_part"
+                baseColumnNames="exercise_id"
+                constraintName="fk_exercise"
+                referencedTableName="exercises"
+                referencedColumnNames="id"
+                onDelete="CASCADE"
+        />
+
+        <addForeignKeyConstraint
+                baseTableName="exercise_body_part"
+                baseColumnNames="body_part_id"
+                constraintName="fk_body_part"
+                referencedTableName="body_parts"
+                referencedColumnNames="id"
+                onDelete="CASCADE"
+        />
+
+    </changeSet>
+
+</databaseChangeLog>
+
+
+<!--        exercise_id,body_part_id-->

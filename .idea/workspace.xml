@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="179349e0-e7c9-41f9-9fdb-539017b9cdaf" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Record" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3BV6nXc5Xdoe6r0PV8JOl1qzXDM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.FormLab [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.FormLab [install].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Spring Boot.FormLabApplication.executor&quot;: &quot;Run&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sofij/IdeaProjects/FormLab/frontend/public/models&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;,
+      &quot;mysql_aurora&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sofij\IdeaProjects\FormLab\frontend\public\models" />
+      <recent name="C:\Users\sofij\IdeaProjects\FormLab\backend" />
+      <recent name="C:\Users\sofij\IdeaProjects\FormLab\src\main\resources\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sofij\IdeaProjects\FormLab\frontend\src" />
+      <recent name="C:\Users\sofij\IdeaProjects\FormLab\frontend\src\ui" />
+      <recent name="C:\Users\sofij\IdeaProjects\FormLab\backend" />
+      <recent name="C:\Users\sofij\IdeaProjects\FormLab" />
+      <recent name="C:\Users\sofij\IdeaProjects\FormLab\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FormLabApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="FormLab" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.formlab.FormLabApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="StructureViewState">
+    <option name="selectedTab" value="Logical" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="179349e0-e7c9-41f9-9fdb-539017b9cdaf" name="Changes" comment="" />
+      <created>1774562058561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774562058561</updated>
+      <workItem from="1774562060194" duration="565000" />
+      <workItem from="1774572299255" duration="37000" />
+      <workItem from="1774573805229" duration="6389000" />
+      <workItem from="1774610478448" duration="6817000" />
+      <workItem from="1774636315520" duration="378000" />
+      <workItem from="1775224211929" duration="2478000" />
+      <workItem from="1775736436187" duration="488000" />
+      <workItem from="1775742043363" duration="2755000" />
+      <workItem from="1775745056823" duration="3075000" />
+      <workItem from="1776261738870" duration="3517000" />
+      <workItem from="1776268370195" duration="106000" />
+      <workItem from="1776268485692" duration="3851000" />
+      <workItem from="1776272423094" duration="268000" />
+      <workItem from="1776338166853" duration="739000" />
+      <workItem from="1776344469529" duration="5089000" />
+      <workItem from="1776723268395" duration="467000" />
+      <workItem from="1776865239899" duration="10685000" />
+      <workItem from="1776876603540" duration="1134000" />
+      <workItem from="1776888065268" duration="13209000" />
+      <workItem from="1776943792068" duration="6942000" />
+      <workItem from="1777295533550" duration="1733000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.security:spring-security-core" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.validation:jakarta.validation-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+  </component>
+</project>
