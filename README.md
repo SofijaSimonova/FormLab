@@ -67,9 +67,11 @@ Animations are imported and combined in Blender and then dynamically triggered i
 ```bash
 cd backend
 ./mvnw spring-boot:run
+```
 
 
 ### Frontend
 ```bash
 cd frontend
 npm install npm run dev
+```
