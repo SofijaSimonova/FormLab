@@ -6,7 +6,7 @@ The application combines a Spring Boot backend with a React frontend and real-ti
 
 ---
 
-## 🚀 Features
+## Features
 
 - Browse exercises by body part  
 - View exercise descriptions and difficulty levels  
@@ -15,7 +15,7 @@ The application combines a Spring Boot backend with a React frontend and real-ti
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Backend**
 - Spring Boot
